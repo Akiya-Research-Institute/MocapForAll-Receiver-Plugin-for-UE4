@@ -1,4 +1,4 @@
-# UE4 sample project to receive data from MocapForall
+# UE4 sample project to receive data from MocapForAll
  
 In MocapForAll,
 - turn on "Settings > Data export > VMT protocol > Send tracking positions" or "Send bones"
